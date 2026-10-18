@@ -29,7 +29,7 @@ My rule of thumb: **the AI drafts, the system verifies, a person approves.**
 
 <br/>
 
-## Three projects
+## Projects
 
 <table>
 <tr>
@@ -70,12 +70,12 @@ Type a request in plain English and get a priced B2B quote. The AI drafts it, th
 </td>
 <td valign="top">
 
-### SupportBench RAGOps
+### SupportBench 
 Compares models and retrieval settings for a support chatbot, then recommends which setup to ship based on quality, cost, speed and risk.
 
 `FastAPI` `Next.js` `Pinecone` `BM25` `Evals`
 
-[Code](https://github.com/aritraghosh215/supportbench-ragops) <!-- TODO: correct repo name, add live demo / video links when ready -->
+[Live demo](https://support-bench.vercel.app/) · [3 min video](https://www.youtube.com/watch?v=8Qui_vfPCEA) · [Code](https://github.com/aritraghosh215/SupportBench)
 
 </td>
 </tr>
