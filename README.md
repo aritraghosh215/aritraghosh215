@@ -7,29 +7,29 @@
 <div align="center">
 
 <a href="https://github.com/aritraghosh215">
-  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=7C5CFF&background=FFFFFF&center=true&vCenter=true&width=560&lines=Full-Stack+AI+Engineer;Multi-agent+systems+%7C+LangGraph+%7C+MCP;RAG+%2B+evals+%2B+real+deployments;The+AI+drafts.+People+approve." />
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=7C5CFF&background=00000000&center=true&vCenter=true&width=620&lines=Full-Stack+AI+Engineer;Multi-agent+systems+%7C+LangGraph+%7C+MCP;RAG+%2B+evals+%2B+real+deployments;The+AI+drafts.+People+approve." />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-ghosh-041346420)
 [![Email](https://img.shields.io/badge/Email-7c5cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghosharitra18@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-0ea5a4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/YOUR-RESUME-LINK)
+[![Resume](https://img.shields.io/badge/Resume-0ea5a4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/YOUR-RESUME-LINK) <!-- Replace with your actual resume URL -->
 [![YouTube](https://img.shields.io/badge/Video_tours-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/bsqNIGMt4wU)
 
 </div>
 
 <br/>
 
-## About me
+## 👋 About me
 
-I'm a full-stack AI engineer. I build agent products end to end: the backend, the tools the agents call, the UI, and the guardrails. Each project below is deployed, tested and has a video tour.
+I'm a full-stack AI engineer. I build agent products end to end: the backend, the tools the agents call, the UI, and the guardrails. Explore the projects below for live demos, source code, and short video tours.
 
 My rule of thumb: **the AI drafts, the system verifies, a person approves.**
 
 <br/>
 
-## Projects
+## 🚀 Projects
 
 <table>
 <tr>
@@ -81,9 +81,9 @@ Compares models and retrieval settings for a support chatbot, then recommends wh
 
 <br/>
 
-## Play: Incident Commander
+## 🎮 Play: Incident Commander
 
-You're on call. Three alerts, one decision each. Click a round, then pick an answer.
+You're on call. Three alerts, one decision each. Open a round, choose an answer, and see how you'd handle production incidents.
 
 <details>
 <summary><b>Round 1:</b> The error rate on <code>checkout-api</code> jumped to 11% right after a deploy.</summary>
@@ -164,7 +164,7 @@ You're on call. Three alerts, one decision each. Click a round, then pick an ans
 
 <br/>
 
-## Tech I use
+## 🧰 Tech I use
 
 <div align="center">
 
@@ -181,7 +181,7 @@ You're on call. Three alerts, one decision each. Click a round, then pick an ans
 
 <br/>
 
-## GitHub stats
+## 📊 GitHub stats
 
 <div align="center">
 
