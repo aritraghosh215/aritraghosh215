@@ -63,10 +63,8 @@ Type a request in plain English and get a priced B2B quote. The AI drafts it, th
 </td>
 </tr>
 <tr>
-<td width="38%" valign="top" align="center">
-<br/><br/>
-<b>RAG<br/>benchmark<br/>dashboard</b>
-<br/><br/>
+<td width="38%" valign="top">
+<a href="https://www.youtube.com/watch?v=8Qui_vfPCEA"><img src="https://img.youtube.com/vi/8Qui_vfPCEA/hqdefault.jpg" alt="SupportBench video" width="100%"></a>
 </td>
 <td valign="top">
 
